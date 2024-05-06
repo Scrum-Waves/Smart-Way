@@ -4,7 +4,7 @@ Projet UI/UX Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is an academic work for fo the subject UI/UX.
 
 A few resources to get you started if this is your first Flutter project:
 
