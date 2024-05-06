@@ -29,4 +29,12 @@ https://ahmed-jedidi.github.io/smartway/
 
 
 
+![Screenshot 2024-05-06 225714](https://github.com/Scrum-Waves/Smart-Way/assets/74512793/ca8a03f0-b9da-4dc6-8c44-f90bedfcc4ab) ![Screenshot 2024-05-06 225655](https://github.com/Scrum-Waves/Smart-Way/assets/74512793/396260db-1587-4178-83c8-5e8386ce80cf)
+
+
+
+
+  ![Screenshot 2024-05-06 225638](https://github.com/Scrum-Waves/Smart-Way/assets/74512793/0dd0dd50-7b3b-4250-be70-d8ab025e57dc)
+
+
 
