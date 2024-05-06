@@ -10,9 +10,11 @@ This project is an academic work for fo the subject UI/UX.
 https://www.figma.com/file/u1wcE3UCJWeLElbBiHH2b8/Projet-UI%2FUX?type=design&node-id=5%3A466&mode=design&t=Efli4kvJv0dTeE2a-1
 
 # Projet UI_UX Interfaces.pdf :
+[Uploading Projet UI_UX Interfaces.pdf…]()
 
 
 # Projet UI_UX Rapport.pdf :
+[Uploading Projet UI_UX Rapport.pdf…]()
 
 
 # Projet UI_UX Trailer.mp4 :
