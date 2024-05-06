@@ -15,10 +15,10 @@ https://www.figma.com/file/u1wcE3UCJWeLElbBiHH2b8/Projet-UI%2FUX?type=design&nod
 https://drive.google.com/file/d/1Tyx82wosJxlsrCEHknMwY1BiMhAEJNQL/view?usp=sharing&authuser=4
 
 # Trailer.mp4 :
-
+https://drive.google.com/file/d/1Ccy-RVrL4fszWmAVJr7bl81G-uvxgck4/view?usp=drive_link
 
 # Flutter .apk for Android mobile devices :
-
+https://drive.google.com/file/d/1QlBP72b7HQrf5bmunbmaaeg6bWbUvdDL/view?usp=drive_link
 
 # Flutter website for browsers :
 https://ahmed-jedidi.github.io/smartway/
