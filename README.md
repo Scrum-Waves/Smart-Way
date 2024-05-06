@@ -24,6 +24,10 @@ https://drive.google.com/file/d/1Tyx82wosJxlsrCEHknMwY1BiMhAEJNQL/view?usp=shari
 https://ahmed-jedidi.github.io/smartway/
 
 
+
+
+
+
 ![Screenshot 2024-05-06 225751](https://github.com/Scrum-Waves/Smart-Way/assets/74512793/15d86fc3-ef3d-4fc2-a2e6-c2930efa0423) ![Screenshot 2024-05-06 225732](https://github.com/Scrum-Waves/Smart-Way/assets/74512793/af493a0a-70cc-4c7c-b44c-b3718bb8415b)
 
 
