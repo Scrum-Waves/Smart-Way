@@ -20,10 +20,10 @@ https://www.figma.com/file/u1wcE3UCJWeLElbBiHH2b8/Projet-UI%2FUX?type=design&nod
 # Demo.mkv : 
 https://drive.google.com/file/d/1Tyx82wosJxlsrCEHknMwY1BiMhAEJNQL/view?usp=sharing&authuser=4
 
-# Flutter .apk for Android mobile devices :
+# Flutter .apk (for Android devices) :
 [https://drive.google.com/file/d/1QlBP72b7HQrf5bmunbmaaeg6bWbUvdDL/view?usp=drive_link](https://drive.google.com/file/d/1QlBP72b7HQrf5bmunbmaaeg6bWbUvdDL/view?usp=sharing)
 
-# Flutter website for browsers :
+# Flutter website :
 https://ahmed-jedidi.github.io/smartway/
 
 # ...
