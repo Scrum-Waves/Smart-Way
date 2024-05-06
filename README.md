@@ -1,5 +1,5 @@
 # Smart-Way application
-## Projet UI_UX ( IT in transport )
+## UI_UX project ( IT in transport )
 This is the Flutter's source code for UI/UX project. Which is an academic work for fo the subject UI/UX. Smart Way is an application which help public transport's users with a variety of fonctionnality like e-ticketing, tracking buses, checking prices and making decisions...
 
 # Figma : 
