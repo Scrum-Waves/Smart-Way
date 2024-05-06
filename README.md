@@ -17,8 +17,8 @@ https://drive.google.com/file/d/1Tyx82wosJxlsrCEHknMwY1BiMhAEJNQL/view?usp=shari
 # Trailer.mp4 :
 
 
-# Flutter .apk for Android devices :
+# Flutter .apk for Android mobile devices :
 
 
-# Flutter website :
+# Flutter website for browsers :
 https://ahmed-jedidi.github.io/smartway/
