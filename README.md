@@ -12,6 +12,7 @@ This is the Flutter's source code for UI/UX project. Which is an academic work f
 https://www.figma.com/file/u1wcE3UCJWeLElbBiHH2b8/Projet-UI%2FUX?type=design&node-id=5%3A466&mode=design&t=Efli4kvJv0dTeE2a-1
 
 # Rapport.pdf :
+https://drive.google.com/file/d/1CIAnrWZboV5DIZYe0z2rF5ylBGcvJox5/view?usp=sharing
 [Projet UI_UX Rapport.pdf](https://github.com/Scrum-Waves/Smart-Way/files/15227395/Projet.UI_UX.Rapport.pdf)
 
 # Interfaces.pdf :
