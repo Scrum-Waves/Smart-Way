@@ -16,6 +16,7 @@ https://drive.google.com/file/d/1CIAnrWZboV5DIZYe0z2rF5ylBGcvJox5/view?usp=shari
 [Projet UI_UX Rapport.pdf](https://github.com/Scrum-Waves/Smart-Way/files/15227395/Projet.UI_UX.Rapport.pdf)
 
 # Interfaces.pdf :
+https://drive.google.com/file/d/1hYqqVPoyRKkB_KfU025xAaMS1mJkDS_-/view?usp=sharing OR
 [Projet UI_UX Interfaces.pdf](https://github.com/Scrum-Waves/Smart-Way/files/15227399/Projet.UI_UX.Interfaces.pdf)
 
 # Demo.mkv : 
